@@ -19,15 +19,28 @@ h2 {
     font-size: 42px;
 }
 
+a {
+    font-size: 20px;
+    color: aquamarine;
+}
+
 .download-link {
-    margin: 20px; 0;
+    margin: 20px 0;
 }
 
 #scope {
     margin: 20px 0;
-    font-size: 32px;
+    font-size: 28px;
+    color: gray;
 }
 
 #phone {
     margin: 15px 0;
+}
+
+#footer > p {
+    font-size: 28px;
+    color: gray;
+    text-align: right;
+    padding: 20px;
 }
